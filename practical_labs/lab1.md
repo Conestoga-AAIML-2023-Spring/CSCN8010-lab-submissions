@@ -1,1 +1,0 @@
-Set up this repository by following both sets of instructions in the [repository setup](../README.md) and [Student Submission Subfolder Setup](../students_submissions/README.md) sections. This demonstrates your ability to use Git and Github, which are essential tools in today's software development profession, including machine learning.
